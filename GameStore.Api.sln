@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore.Api", "GameStore.Api.csproj", "{977A583D-25BF-FE60-662D-5600F39B7D18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteLucas", "..\..\..\Test\TesteLucas\TesteLucas.csproj", "{383421F5-EFE6-4F6C-8CC3-08EDE727A7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{977A583D-25BF-FE60-662D-5600F39B7D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977A583D-25BF-FE60-662D-5600F39B7D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977A583D-25BF-FE60-662D-5600F39B7D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977A583D-25BF-FE60-662D-5600F39B7D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{383421F5-EFE6-4F6C-8CC3-08EDE727A7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{383421F5-EFE6-4F6C-8CC3-08EDE727A7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{383421F5-EFE6-4F6C-8CC3-08EDE727A7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{383421F5-EFE6-4F6C-8CC3-08EDE727A7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A89FA2-8D2F-4BC8-A555-06883FE3B957}
+	EndGlobalSection
+EndGlobal

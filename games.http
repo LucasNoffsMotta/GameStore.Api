@@ -1,0 +1,32 @@
+GET http://localhost:5146/games
+
+###
+GET http://localhost:5146/games/1
+
+###
+POST http://localhost:5146/games
+Content-Type: application/json
+
+{
+  "name":"Tibia",
+  "genreId": 3,
+  "price": 50.00,
+  "releaseDate": "2004-03-07"
+}
+
+###
+PUT http://localhost:5146/games/1
+Content-Type: application/json
+
+{
+"name": "Street Fighter IV",
+"genreId": 3,
+"price": 199.99,
+"releaseDate": "2010-05-05"
+}
+
+###
+DELETE http://localhost:5146/games/3
+
+
+

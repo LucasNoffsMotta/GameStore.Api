@@ -10,5 +10,4 @@ public static class GenreMapping
     {
         return new GenreDTO(genre.id, genre.Name);
     }
-
 }

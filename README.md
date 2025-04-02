@@ -9,21 +9,8 @@ Este projeto é uma **Minimal API** desenvolvida com **ASP.NET Core**, que forne
 ✅ Persistência de dados com **Entity Framework Core**  
 ✅ Arquitetura baseada em boas práticas  
 
-##Arquitetura do Projeto
-📦 GameStore.Api
- ┣ 📂 src
- ┃ ┣ 📂 Application
- ┃ ┃ ┣ 📂 DTOs                 # Objetos de transferência de dados
- ┃ ┃ ┗ 📂 Mappings             # Conversão entre Entidades e DTOs
- ┃ ┣ 📂 Domain
- ┃ ┃ ┗ 📂 Entities             # Entidades do domínio
- ┃ ┣ 📂 Infrastructure
- ┃ ┃ ┗ 📂 Data                 # Configuração do banco de dados e Migracoes 
- ┃ ┣ 📂 Presentation
- ┃ ┃ ┗ 📂 Endpoints            # Implementação dos endpoints da API
- ┃ ┣ 📂 Properties             # Arquivos de configuração
- ┗ 📂 tests
-   ┗ 📂 SeuProjeto.Tests       # Testes unitários e de integração
+
+![image](https://github.com/user-attachments/assets/13564513-8369-423d-b72a-b0b812e6399c)
 
 
 ## 🚀 Tecnologias Utilizadas

@@ -3,8 +3,6 @@ C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\obj\Deb
 C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.AssemblyInfo.cs
 C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.csproj.CoreCompileInputs.cache
 C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
-c:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\appsettings.Development.json
-c:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\appsettings.json
 c:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\GameStore.Api.staticwebassets.endpoints.json
 c:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\GameStore.Api.exe
 c:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\GameStore.Api.deps.json
@@ -154,3 +152,6 @@ C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Deb
 C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\Properties\appsettings.Development.json
+C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\bin\Debug\net9.0\Properties\appsettings.json
+C:\Users\lnoff\Desktop\Projects\GameStoreProject\GameStore\GameStore.Api\obj\Debug\net9.0\GameStore.Api.sourcelink.json
